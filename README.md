@@ -21,7 +21,7 @@
 - [ ] UI Support
 - [ ] Spectator mode
 - [ ] EconomyAPI Support (Or whichever Economy plugin is official on PocketMine will be implemented)
-
+- [ ] Multi-lang support
 
 And possibly few more that isn't listed as it's in development.
 

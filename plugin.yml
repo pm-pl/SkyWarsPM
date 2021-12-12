@@ -1,6 +1,6 @@
 ---
 name: SkyWarsPM
 version: 1.0.0
-main: Vecnavium\SkyWarsPM\Main
+main: Vecnavium\SkyWarsPM\SkyWarsPM
 api: 4.0.0
 ...

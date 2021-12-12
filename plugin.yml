@@ -1,5 +1,7 @@
 ---
 name: SkyWarsPM
+authors: [Vecnavium , Cosmicnebula200]
+description: SkyWars plugin for PocketMine-MP
 version: 1.0.0
 main: Vecnavium\SkyWarsPM\SkyWarsPM
 api: 4.0.0
